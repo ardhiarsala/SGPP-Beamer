@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.30)  30 JUL 2021 23:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.7.30)  31 JUL 2021 00:03
 entering extended mode
 **"./SGPP Thesis Beamer.tex"
 (SGPP Thesis Beamer.tex
@@ -1636,20 +1636,18 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/n' on input line 36.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 8.0pt on input line 36.
-<SGPP Logo Secondary Print (1) (1).png, id=101, 433.62pt x 433.62pt>
-File: SGPP Logo Secondary Print (1) (1).png Graphic file (type png)
-<use SGPP Logo Secondary Print (1) (1).png>
-Package pdftex.def Info: SGPP Logo Secondary Print (1) (1).png  used on input l
-ine 36.
+<SGPP Logo Secondary Print.png, id=101, 433.62pt x 433.62pt>
+File: SGPP Logo Secondary Print.png Graphic file (type png)
+<use SGPP Logo Secondary Print.png>
+Package pdftex.def Info: SGPP Logo Secondary Print.png  used on input line 36.
 (pdftex.def)             Requested size: 99.58493pt x 99.58493pt.
 [1
 
 {C:/Users/Ardhi/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./SGPP Logo Sec
-ondary Print (1) (1).png
+ondary Print.png
 
-pdfTeX warning: pdflatex.exe (file ./SGPP Logo Secondary Print (1) (1).png): la
-rge interlaced PNG might cause out of memory (use non-interlaced PNG to fix thi
-s)
+pdfTeX warning: pdflatex.exe (file ./SGPP Logo Secondary Print.png): large inte
+rlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 >] (SGPP Thesis Beamer.toc)
 <SGPP White.png, id=140, 798.1017pt x 212.4738pt>
 File: SGPP White.png Graphic file (type png)
@@ -1835,8 +1833,8 @@ Package rerunfilecheck Info: File `"SGPP Thesis Beamer".out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  27380 strings out of 478864
- 529475 string characters out of 2848660
- 784690 words of memory out of 3000000
+ 529387 string characters out of 2848660
+ 784687 words of memory out of 3000000
  44652 multiletter control sequences out of 15000+600000
  528888 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
