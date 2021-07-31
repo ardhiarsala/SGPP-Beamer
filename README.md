@@ -4,7 +4,7 @@ A beamer template created for thesis defense presentations at the School of Gove
 
 ### Preview
 
-The sections are still based on the ones I used so you may have to customize it to reflect the order of sections in your thesis (see preview below)
+The sections are based on the ones I wrote for my thesis defense so you may have to customize it to reflect the order of sections in your work (see preview below).
 
 ![Screenshot](/preview1.png)
 ![Screenshot](/preview2.png)
